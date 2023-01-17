@@ -66,5 +66,5 @@ lazy val resolversSettings = Seq(
 )
 
 lazy val libsSettings = Seq(
-  "io.monix" %% "minitest" % "2.2.2" % Test
+  "io.monix" %% "minitest" % "2.9.6" % Test
 )
